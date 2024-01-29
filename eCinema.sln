@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eCinema.Services", "eCinema
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eCinema.Model", "eCinema.Model\eCinema.Model.csproj", "{A5066624-630C-4754-9CC5-FAED1C6C43FD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eCinema.WinUI", "eCinema.WinUI\eCinema.WinUI.csproj", "{B4E2EF09-C33A-4B30-AE87-6162468A8B91}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{35AFE95B-A764-4BC4-BD26-AEFEF063349A}"
 	ProjectSection(SolutionItems) = preProject
 		.dockerignore = .dockerignore
@@ -37,10 +35,6 @@ Global
 		{A5066624-630C-4754-9CC5-FAED1C6C43FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5066624-630C-4754-9CC5-FAED1C6C43FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5066624-630C-4754-9CC5-FAED1C6C43FD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B4E2EF09-C33A-4B30-AE87-6162468A8B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4E2EF09-C33A-4B30-AE87-6162468A8B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4E2EF09-C33A-4B30-AE87-6162468A8B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4E2EF09-C33A-4B30-AE87-6162468A8B91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
